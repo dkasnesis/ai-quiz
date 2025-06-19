@@ -23,7 +23,7 @@ A simple Python-based yes/no quiz game that uses OpenAI's API to generate questi
    ```
 2. Install the required Python library:
    ```bash
-   pip install openai
+   pip install openai==0.28.0
    ```
 3. Set up your OpenAI API key:
    - Replace `"insert-api-key-here"` in the script with your actual OpenAI API key. You can obtain a key from [OpenAI's platform](https://platform.openai.com/).
